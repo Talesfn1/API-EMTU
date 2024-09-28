@@ -40,12 +40,11 @@ O Projeto tem como objetivo criar interfaces que permitam a visualização de ca
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
-|Kick Off| 11/03/2024 | Concluído | | 
-|01| 15/04/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relatorio1.pdf) | 
-|02|  06/05/2024| Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%20sprint%202.pdf) | 
-|03| 27/05/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/relatorio%20sprint%203.pdf) | 
-|04| 17/06/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%204.pdf)  | 
-|Feira de Soluções|27/06/2024 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off| 16/09/2024 | Concluído | | 
+|01| 09/10/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relatorio1.pdf) | 
+|02| 06/11/2024| Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%20sprint%202.pdf) | 
+|03| 27/11/2024 | Concluído |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/relatorio%20sprint%203.pdf) | 
+|Feira de Soluções|12/12/2024 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
@@ -64,9 +63,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Sprint2.png)
 ## Sprint 3
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/3sprint.png)
-## Sprint 4
-![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/sprint4.png)
-</div>
 
 # Burndown
 ### Sprint 1
@@ -75,8 +71,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown%232.png)
 ### Sprint 3
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown3.png)
-### Sprint 4
-![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown4.png)
   
 ## Sprint 1. 
 - [x] Criação do GitHub de cada membro;
@@ -95,16 +89,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB;
 - [x] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
 - [x] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
-## Sprint 4. 
-- [x] Atualizar, revisar, corrigir, e implementar novas funções e análises de acordo com a necessidade;
-- [x] Atualizar pesquisas, GitHub e jira;
-- [x] Documentação em relatório sobre todo o progresso na 4ª Sprint e Atualização do GitHub;
 
 # Apresentação das Sprints
 #### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
 #### Apresentação da Sprint 2 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20(1).pdf)
 #### Apresentação da Sprint 3 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)
-#### Apresentação da Sprint 4 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)
 
 # Competências desenvolvidas
 
