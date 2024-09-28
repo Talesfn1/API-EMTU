@@ -32,10 +32,10 @@ O Projeto tem como objetivo criar interfaces que permitam a visualização de ca
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > GitHub
-  > Jira Software
+> GitHub
+> Jira Software
 > Power BI
-> Slack
+> E-mail
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
