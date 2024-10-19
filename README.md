@@ -64,7 +64,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 # Burndown
 ### Sprint 1
-![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown.png)
+![sprint backlog](https://github.com/Talesfn1/API-EMTU/blob/main/Burndown_EMTU.png)
 ### Sprint 2
 ![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown%232.png)
 ### Sprint 3
