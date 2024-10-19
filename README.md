@@ -27,8 +27,7 @@
 
 
 # Objetivo do Projeto
-O Projeto tem como objetivo criar interfaces que permitam a visualização de cargas que tenham potencial para exportação pelo aeroporto de SJK.
-## Tecnologias Utilizadas
+Desenvolver um plano estratégico de integração e otimização do transporte público e da infraestrutura urbana entre municípios, visando melhorar a mobilidade, a acessibilidade e a qualidade de vida dos cidadãos, promovendo o desenvolvimento sustentável e a coesão territorial.
 
  ### Tecnologias Específicas/Apoio
 > GitHub
