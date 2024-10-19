@@ -89,7 +89,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
 
 # Apresentação das Sprints
-#### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
+#### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/API-EMTU/blob/main/Apresenta%C3%A7%C3%A3o%20EMTU.pdf)
 #### Apresentação da Sprint 2 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20(1).pdf)
 #### Apresentação da Sprint 3 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%203.pdf)
 
