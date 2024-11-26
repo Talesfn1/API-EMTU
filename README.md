@@ -56,7 +56,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ![sprint backlog](https://github.com/Talesfn1/API-EMTU/blob/main/Objsprint.png)
 # Priorização
 ## Sprint 1
-![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/BacklogP1.png)
+![product backlog](https://github.com/Talesfn1/API-EMTU/blob/main/M%C3%ADdia.jpeg)
 ## Sprint 2
 ![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Sprint2.png)
 ## Sprint 3
