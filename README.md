@@ -80,12 +80,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Revisão e finalização.
 ## Sprint 2. 
 - [x] Conversão dos dados no Power BI ;
-- [x] Identificar principais produtos exportados na RM Vale;
-- [x] Criação do Dashboard com evolução mensal por valor/peso das exportações;
+- [x] Identificar principais rotas da EMTU;
 - [x] Documentação em relatório sobre todo o progresso na 2ª Sprint;
 ## Sprint 3. 
-- [x] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB;
-- [x] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
+- [x] Desenvolver possiveis rotas ;
+- [x] Pesquisar quais os principais horarios de utilização do transposte;
 - [x] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
 
 # Apresentação das Sprints
