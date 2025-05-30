@@ -121,3 +121,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
+
+https://github.com/Talesfn1/Nexus-Log-stica/blob/main/BI/video%20BI.mp4
+<iframe width="560" height="315" src="https://github.com/Talesfn1/Nexus-Log-stica/blob/main/BI/video%20BI.mp4" frameborder="0" allowfullscreen></iframe>
